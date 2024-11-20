@@ -6,7 +6,6 @@
       {
         "id": "65e46f212eb48c18",
         "type": "tabs",
-        "dimension": 63.09904153354633,
         "children": [
           {
             "id": "b619d0033160b436",
@@ -20,61 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "C++"
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "2eace7d4a92baafc",
-        "type": "tabs",
-        "dimension": 36.90095846645367,
-        "children": [
-          {
-            "id": "520bac6cab310f39",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "C++.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of C++"
-            }
-          },
-          {
-            "id": "564b6222349aa8f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           },
           {
@@ -91,7 +35,8 @@
               "title": "CHECKLIST"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -244,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9852569874d198c9",
+  "active": "b619d0033160b436",
   "lastOpenFiles": [
     "CHECKLIST.md",
     "C++.md",
