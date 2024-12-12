@@ -1,0 +1,1 @@
+[[char]], [[char16_t]], [[char32_t]], [[wchar_t]]
