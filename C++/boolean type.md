@@ -1,3 +1,0 @@
-T/F Value
-
-[[bool]]

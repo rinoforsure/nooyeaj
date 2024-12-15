@@ -6,9 +6,6 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFileCode2",
-      "LiFolderCode",
-      "LiFilePen",
       "LiAlertTriangle"
     ],
     "recentlyUsedIconsSize": 5,
@@ -32,6 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "C++/C++.md": "LiFileCode2",
-  "자소서 관련 메모.md": "LiFilePen"
+  "C++.md": "LiAlertTriangle"
 }
