@@ -11,13 +11,32 @@
             "id": "2f774dd2a20bbc28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "물리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "물리"
+            }
+          },
+          {
+            "id": "dd2bf8a998e4434f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHECKLIST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHECKLIST"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,9 +154,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CHECKLIST.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CHECKLIST"
             }
           },
           {
@@ -149,6 +170,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6f89ac64d4c1420b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -159,6 +190,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,8 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9852569874d198c9",
+  "active": "dd2bf8a998e4434f",
   "lastOpenFiles": [
+    "물리.md",
+    "{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
+    "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
+    "{BAC05E5A-31BC-40AB-BD7A-E1971987676A}.png",
+    "{C52A4BC1-417F-401C-9457-48F157C3E01D}.png",
     "std.md",
     "int.md",
     "cout.md",
@@ -195,8 +233,6 @@
     "C++/decltype.md",
     "C++",
     "C++/character type.md",
-    "C++/cout.md",
-    "C++/Variables.md",
-    "C++/void type.md"
+    "C++/cout.md"
   ]
 }
