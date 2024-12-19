@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "CHECKLIST"
             }
+          },
+          {
+            "id": "b3ead68ca7809cf4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "af2b69eff061377f",
@@ -152,11 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "물리.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "물리 개요"
+              "title": "개요"
             }
           },
           {
@@ -199,10 +209,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f774dd2a20bbc28",
+  "active": "b3ead68ca7809cf4",
   "lastOpenFiles": [
-    "CHECKLIST.md",
     "물리.md",
+    "CHECKLIST.md",
     "{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
     "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
     "{BAC05E5A-31BC-40AB-BD7A-E1971987676A}.png",
