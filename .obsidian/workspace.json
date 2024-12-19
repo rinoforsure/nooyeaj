@@ -35,8 +35,7 @@
               "title": "CHECKLIST"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af2b69eff061377f",
@@ -155,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHECKLIST.md"
+                "file": "물리.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CHECKLIST"
+              "title": "물리 개요"
             }
           },
           {
@@ -177,8 +175,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -190,19 +188,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "dd2bf8a998e4434f",
+  "active": "2f774dd2a20bbc28",
   "lastOpenFiles": [
+    "CHECKLIST.md",
     "물리.md",
     "{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
     "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
@@ -213,7 +212,6 @@
     "cout.md",
     "Untitled.md",
     "Spanish speech.md",
-    "CHECKLIST.md",
     "C++.md",
     "THE CHECKLIST.md",
     "right.md",
