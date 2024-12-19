@@ -39,14 +39,30 @@
             "id": "b3ead68ca7809cf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "image",
+              "state": {
+                "file": "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png"
+              },
+              "icon": "lucide-image",
+              "title": "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}"
+            }
+          },
+          {
+            "id": "e9052f65d686bb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/C++.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "C++"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "af2b69eff061377f",
@@ -164,9 +179,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "C++/C++.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "C++ 개요"
             }
           },
           {
@@ -209,27 +226,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3ead68ca7809cf4",
+  "active": "e9052f65d686bb40",
   "lastOpenFiles": [
+    "Untitled.md",
+    "C++/C++.md",
+    "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
+    "C++",
+    "면접 질문.md",
+    "아이디어 노트.md",
+    "test.c",
     "물리.md",
     "CHECKLIST.md",
     "{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
-    "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
     "{BAC05E5A-31BC-40AB-BD7A-E1971987676A}.png",
     "{C52A4BC1-417F-401C-9457-48F157C3E01D}.png",
-    "std.md",
-    "int.md",
-    "cout.md",
-    "Untitled.md",
+    "C++/std.md",
+    "C++/int.md",
+    "C++/cout.md",
     "Spanish speech.md",
-    "C++.md",
     "THE CHECKLIST.md",
     "right.md",
     "심리학/심리학.md",
     "심리학",
     "자소서 관련 메모.md",
     "청심 지원.md",
-    "아이디어 노트.md",
     "시 - 너가 죽었으면 좋겠어.md",
     "자소서 v2.md",
     "memo.md",
@@ -237,10 +257,8 @@
     "C++/Literals.md",
     "C++/Strings.md",
     "C++/auto.md",
-    "C++/C++.md",
     "C++/decltype.md",
     "C++",
-    "C++/character type.md",
-    "C++/cout.md"
+    "C++/character type.md"
   ]
 }

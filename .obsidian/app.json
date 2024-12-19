@@ -34,5 +34,6 @@
     "editor:paste",
     "command-palette:open",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false
 }
