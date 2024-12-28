@@ -99,6 +99,7 @@
       {
         "id": "f4011dd36833d2a7",
         "type": "tabs",
+        "dimension": 56.73289183222958,
         "children": [
           {
             "id": "148e212cd6a31497",
@@ -159,7 +160,7 @@
             }
           },
           {
-            "id": "9852569874d198c9",
+            "id": "d941f94b52ed0f0a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,19 +168,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "13657122fbaa5033",
+        "type": "tabs",
+        "dimension": 43.26710816777042,
+        "children": [
           {
             "id": "6f89ac64d4c1420b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +206,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4d4cfedbdee064a9",
+  "active": "3d90e83134d5cb0d",
   "lastOpenFiles": [
     "C++/C++.md",
     "Untitled.md",
