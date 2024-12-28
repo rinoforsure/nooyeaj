@@ -1,5 +1,7 @@
 {
   "cssTheme": "ITS Theme",
   "accentColor": "#990000",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "Malgun Gothic",
+  "textFontFamily": "Malgun Gothic"
 }
