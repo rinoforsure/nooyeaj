@@ -25,12 +25,14 @@
             "id": "4d4cfedbdee064a9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "CHECKLIST.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "CHECKLIST"
             }
           }
         ],
@@ -99,7 +101,7 @@
       {
         "id": "f4011dd36833d2a7",
         "type": "tabs",
-        "dimension": 56.73289183222958,
+        "dimension": 56.732891832229576,
         "children": [
           {
             "id": "148e212cd6a31497",
@@ -175,7 +177,7 @@
       {
         "id": "13657122fbaa5033",
         "type": "tabs",
-        "dimension": 43.26710816777042,
+        "dimension": 43.267108167770424,
         "children": [
           {
             "id": "6f89ac64d4c1420b",
@@ -206,7 +208,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d90e83134d5cb0d",
+  "active": "4d4cfedbdee064a9",
   "lastOpenFiles": [
     "C++/C++.md",
     "Untitled.md",
