@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHECKLIST.md",
+                "file": "면접 질문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHECKLIST"
+              "title": "면접 질문"
             }
           }
         ],
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CHECKLIST.md"
+            "file": "면접 질문.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -183,9 +183,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f0134e77b083655",
+  "active": "49e864e31085fa2b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "아이디어 노트.md"
+    "아이디어 노트.md",
+    "CHECKLIST.md",
+    "{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
+    "물리.md",
+    "면접 질문.md",
+    "{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
+    "{C52A4BC1-417F-401C-9457-48F157C3E01D}.png",
+    "{BAC05E5A-31BC-40AB-BD7A-E1971987676A}.png",
+    "C++/std.md",
+    "C++/C++.md",
+    "C++/int.md",
+    "C++/cout.md",
+    "C++",
+    "test.c",
+    "/C++/std.md",
+    "/C++/int.md",
+    "/C++/cout.md",
+    "/C++/C++.md",
+    "/물리.md",
+    "/면접 질문.md",
+    "/{D7CBEC15-28DA-4DA0-B77B-3DBA17A9F707}.png",
+    "/{C52A4BC1-417F-401C-9457-48F157C3E01D}.png",
+    "/{BAC05E5A-31BC-40AB-BD7A-E1971987676A}.png",
+    "/{0F3B9C67-503E-42B1-A7A8-5C4B05EFB5F2}.png",
+    "/CHECKLIST.md",
+    "/test.c",
+    "/C++",
+    "Untitled.md"
   ]
 }
