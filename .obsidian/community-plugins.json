@@ -2,9 +2,9 @@
   "obsidian-vimrc-support",
   "obsidian-tasks-plugin",
   "obsidian-icon-folder",
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "calendar",
   "omnisearch",
-  "fleeting-notes-obsidian"
+  "fleeting-notes-obsidian",
+  "obsidian-git"
 ]
